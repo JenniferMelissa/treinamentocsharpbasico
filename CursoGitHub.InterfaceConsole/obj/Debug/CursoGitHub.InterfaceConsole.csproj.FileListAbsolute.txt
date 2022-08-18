@@ -6,3 +6,11 @@ C:\Users\Aluno\Desktop\Nova pasta (2)\CursoGitHub\CursoGitHub.InterfaceConsole\o
 C:\Users\Aluno\Desktop\Nova pasta (2)\CursoGitHub\CursoGitHub.InterfaceConsole\obj\Debug\CursoGitHub.InterfaceConsole.csproj.CoreCompileInputs.cache
 C:\Users\Aluno\Desktop\Nova pasta (2)\CursoGitHub\CursoGitHub.InterfaceConsole\obj\Debug\CursoGitHub.InterfaceConsole.exe
 C:\Users\Aluno\Desktop\Nova pasta (2)\CursoGitHub\CursoGitHub.InterfaceConsole\obj\Debug\CursoGitHub.InterfaceConsole.pdb
+C:\Users\Aluno\Desktop\ProjetoVisualStudio\CursoGitHub\CursoGitHub.InterfaceConsole\bin\Debug\CursoGitHub.InterfaceConsole.exe.config
+C:\Users\Aluno\Desktop\ProjetoVisualStudio\CursoGitHub\CursoGitHub.InterfaceConsole\bin\Debug\CursoGitHub.InterfaceConsole.exe
+C:\Users\Aluno\Desktop\ProjetoVisualStudio\CursoGitHub\CursoGitHub.InterfaceConsole\bin\Debug\CursoGitHub.InterfaceConsole.pdb
+C:\Users\Aluno\Desktop\ProjetoVisualStudio\CursoGitHub\CursoGitHub.InterfaceConsole\obj\Debug\CursoGitHub.InterfaceConsole.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoVisualStudio\CursoGitHub\CursoGitHub.InterfaceConsole\obj\Debug\CursoGitHub.InterfaceConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\ProjetoVisualStudio\CursoGitHub\CursoGitHub.InterfaceConsole\obj\Debug\CursoGitHub.InterfaceConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoVisualStudio\CursoGitHub\CursoGitHub.InterfaceConsole\obj\Debug\CursoGitHub.InterfaceConsole.exe
+C:\Users\Aluno\Desktop\ProjetoVisualStudio\CursoGitHub\CursoGitHub.InterfaceConsole\obj\Debug\CursoGitHub.InterfaceConsole.pdb
